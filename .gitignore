@@ -1,0 +1,17 @@
+__pycache__/
+
+.vscode/
+
+PackCppSource/.xmake/
+PackCppSource/build/
+PackCppSource/install/
+
+SigSysPack/__pycache__
+SigSysPack/pack/*.lib
+SigSysPack/pack/*.pyd
+
+# 不同步调试文件
+*.log
+*.txt
+
+gen.py
